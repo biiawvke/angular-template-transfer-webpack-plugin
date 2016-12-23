@@ -1,0 +1,26 @@
+{
+  "name": "angular-template-transfer-webpack-plugin",
+  "version": "0.0.1",
+  "description": "transfer angular template files to the build directory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biiawvke/angular-template-transfer-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "angular",
+    "template",
+    "transfer",
+    "move",
+    "copy"
+  ],
+  "author": "qnn",
+  "license": "MIT",
+  "homepage": "https://github.com/biiawvke/angular-template-transfer-webpack-plugin",
+  "dependencies": {
+    "node-dir": "^0.1.6",
+    "vow": "^0.4.9"
+  }
+}
