@@ -1,6 +1,7 @@
 var path = require('path');
 var dir = require('node-dir');
 var vow = require('vow');
+
 var fs = require('fs');
 
 function TransferWebpackPlugin(patterns, basePath) {
